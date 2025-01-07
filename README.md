@@ -78,11 +78,7 @@ This project demonstrates the implementation of multiple recommendation approach
    ```bash
    git clone https://github.com/your-username/Movie-Recommendation-System.git
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Launch the Jupyter Notebook:
+2. Launch the Jupyter Notebook:
    ```bash
    jupyter notebook Portfolio_Movie_Recommender_System_Cleaned.ipynb
    ```
@@ -92,7 +88,6 @@ This project demonstrates the implementation of multiple recommendation approach
 ## 📂 Project Files
 
 - **Portfolio_Movie_Recommender_System_Cleaned.ipynb**: Main project notebook.
-- **requirements.txt**: List of required Python libraries.
 - **README.md**: Comprehensive documentation of the project.
 - **Data Source**: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
 
