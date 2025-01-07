@@ -21,8 +21,7 @@ In today's era of diverse entertainment choices, the role of a Movies Recommenda
 In this context, this project explores and implements four potent methodologies:
 1. **Content Filtering** - Analyzing movie attributes to recommend similar ones.
 2. **Collaborative Filtering** - Leveraging user interactions to suggest movies.
-3. **Hybrid Approach** - Combining the strengths of both Content and Collaborative Filtering.
-4. **Neural Collaborative Filtering** - Using Deep Learning techniques for enhanced recommendations.
+3. **Neural Collaborative Filtering** - Using Deep Learning techniques for enhanced recommendations.
 
 ## Methodology
 
