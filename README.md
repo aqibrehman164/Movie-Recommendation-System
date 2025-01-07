@@ -10,7 +10,6 @@ This project focuses on developing a robust **Movie Recommendation System** by l
 
 - **Content-Based Filtering**: Recommends movies based on similar attributes (e.g., genres, keywords, or metadata).
 - **Collaborative Filtering**: Suggests movies based on user interactions and ratings.
-- **Hybrid Approach**: Combines the strengths of content-based and collaborative filtering.
 - **Deep Learning Approach (Neural Collaborative Filtering - NCF)**: Uses neural networks to capture complex user-movie interactions.
 
 ---
@@ -42,7 +41,7 @@ This project demonstrates the implementation of multiple recommendation approach
    - Cleaned and prepared data for machine learning and deep learning models.
 
 4. **Model Building**:
-   - Implemented **Content-Based Filtering**, **Collaborative Filtering**, and a **Hybrid Approach**.
+   - Implemented **Content-Based Filtering**, **Collaborative Filtering**.
    - Developed a **Neural Collaborative Filtering (NCF)** model for advanced recommendations.
 
 5. **Evaluation**:
