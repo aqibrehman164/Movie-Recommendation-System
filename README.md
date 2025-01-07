@@ -94,7 +94,7 @@ This project demonstrates the implementation of multiple recommendation approach
 - **Portfolio_Movie_Recommender_System_Cleaned.ipynb**: Main project notebook.
 - **requirements.txt**: List of required Python libraries.
 - **README.md**: Comprehensive documentation of the project.
-- **Data Folder**: Contains processed and raw datasets (if available, specify download instructions).
+- **Data Source**: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
 
 ---
 
